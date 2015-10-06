@@ -1,4 +1,4 @@
-#keyRotation.py
+#keyRotation.py. This script can be used when I want rotate a object like an animation. 
 import maya.cmds as cmds
 
 #p in the parameters. Functions for define the keys
