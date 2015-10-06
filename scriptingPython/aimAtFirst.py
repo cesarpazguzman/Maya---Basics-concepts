@@ -1,4 +1,4 @@
-#aim.py
+#aim.py. This script can be used when several objects have to look at their target. 
 
 import maya.cmds as cmds
 
