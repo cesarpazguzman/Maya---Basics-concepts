@@ -1,4 +1,4 @@
-#randomInstances.py
+#randomInstances.py. This script can be used for creating several instances. Similar to randomCubes.py
 
 import maya.cmds as cmds
 import random
