@@ -3,4 +3,4 @@ This project is about the introduction in Maya. There are two folders:
   - In the second one there are several scripts in Python using the module Maya.cmds. I've used the basics operations of this module.
 
 
-The main goal was learn the basics concepts which every programmer should know for working in this industry. 
+The main goal was learn the basics concepts in the part artistic which every programmer should know for working in this industry.
