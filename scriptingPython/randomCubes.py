@@ -1,4 +1,4 @@
-#randomCube.py
+#randomCube.py. This script is for creating several cubes with a random transform. 
 
 import maya.cmds as cmds
 import random
