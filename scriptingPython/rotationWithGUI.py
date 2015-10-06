@@ -1,4 +1,4 @@
-#keyRotationWithGui.py
+#keyRotationWithGui.py. I learned to create an interface. It could be used for generating a simple animation.
 
 import maya.cmds as cmds
 import functools
